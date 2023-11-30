@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BRShape-SemiBold.otf",
+      "sha1": "c859c6bdaadfa7c67b8e7bdc56cd49eea861d6fa"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Medium.ttf",
+      "sha1": "00ea5b83c109e751b844413d32e21b7689bf786d"
+    }
+  ]
+}
